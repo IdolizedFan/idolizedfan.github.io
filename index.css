@@ -1,0 +1,38 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	background-color: #003333;
+}
+
+div.container {
+	background: url('https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/1534330_835509963129774_6892003359379930758_n.jpg?oh=a3ab98ac2f85531a554f43115b28df69&oe=590501B1') center;
+	border-radius: 30%;
+	height: 300px;
+	width: 460px;
+}
+
+h1 {
+  color: #66FFFF;
+  font-size: 36px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+h6 {
+  color: #000000;
+  font-size: 36px;
+}
+
+#kulor{
+	background-color: #003319;
+}
